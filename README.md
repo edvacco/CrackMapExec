@@ -50,3 +50,5 @@ LTC: `LLMa2bsvXbgBGnnBwiXYazsj7Uz6zRe4fr`
 # To do
 - Kerberos support
 - ~~0wn everything~~
+
+https://www.youtube.com/watch?v=Dd4ZAm2mwwA
